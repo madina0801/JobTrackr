@@ -1,0 +1,31 @@
+{
+  "form": {
+    "company": "Azienda",
+    "position": "Posizione",
+    "dateApplied": "Data di Applicazione",
+    "jobType": "Tipo di Lavoro",
+    "jobStatus": "Stato",
+    "jobButton": "Aggiungi Lavoro",
+    "deleteButton": "Elimina",
+    "select": "Seleziona",
+    "typeInternship": "Stage",
+    "typePart": "Part-time",
+    "typeFull": "Full-time",
+    "statusApplied": "Applicato",
+    "statusPending": "In Attesa",
+    "statusInterviewing": "In Fase di Colloquio",
+    "statusHired": "Assunto",
+    "statusRejected": "Respinto"
+  },
+  "jobsTitle": "Tutti i Lavori",
+  "navbar": {
+    "home": "Home",
+    "about": "Su di Me",
+    "github": "GitHub"
+  },
+  "aboutPage": {
+    "aboutTitle": "Informazioni su JobTrackr",
+    "aboutDesc": "Ho voluto creare un'applicazione semplice ed efficace per tenere traccia dei lavori a cui ho applicato. E ho deciso di condividerla con tutti. JobTrackr è un progetto open-source. Quindi, chiunque può contribuire, io revisiono le modifiche al codice e i contributori possono vedere le loro modifiche in diretta. Il mio obiettivo è rendere questa comunità accogliente e inclusiva.",
+    "aboutLine": "Creato con amore."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "form": {
+    "company": "회사",
+    "position": "직책",
+    "dateApplied": "지원 날짜",
+    "jobType": "직무 유형",
+    "jobStatus": "상태",
+    "jobButton": "직업 추가",
+    "deleteButton": "삭제",
+    "select": "선택",
+    "typeInternship": "인턴십",
+    "typePart": "파트 타임",
+    "typeFull": "풀 타임",
+    "statusApplied": "지원 완료",
+    "statusPending": "대기 중",
+    "statusInterviewing": "인터뷰 중",
+    "statusHired": "채용",
+    "statusRejected": "거부됨"
+  },
+  "jobsTitle": "모든 직업",
+  "navbar": {
+    "home": "홈",
+    "about": "소개",
+    "github": "GitHub"
+  },
+  "aboutPage": {
+    "aboutTitle": "JobTrackr 소개",
+    "aboutDesc": "나는 지원한 직업을 추적할 수 있는 간단하고 효과적인 응용 프로그램을 만들고 싶었습니다. 그리고 그것을 모두와 공유하기로 결정했습니다. JobTrackr은 오픈 소스 프로젝트입니다. 따라서 누구나 기여할 수 있습니다. 저는 코드 변경 사항을 검토하고 기여자가 실시간으로 변경 사항을 볼 수 있도록합니다. 나는이 커뮤니티를 친숙하고 환영받는 곳으로 만들기를 목표로합니다.",
+    "aboutLine": "사랑으로 만들었습니다."
+  }
+}

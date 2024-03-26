@@ -1,0 +1,31 @@
+{
+  "form": {
+    "company": "Entreprise",
+    "position": "Poste",
+    "dateApplied": "Date de Candidature",
+    "jobType": "Type d'Emploi",
+    "jobStatus": "Statut",
+    "jobButton": "Ajouter un Emploi",
+    "deleteButton": "Supprimer",
+    "select": "Sélectionner",
+    "typeInternship": "Stage",
+    "typePart": "Temps partiel",
+    "typeFull": "Temps plein",
+    "statusApplied": "Postulé",
+    "statusPending": "En Attente",
+    "statusInterviewing": "En Entretien",
+    "statusHired": "Embauché",
+    "statusRejected": "Rejeté"
+  },
+  "jobsTitle": "Tous les Emplois",
+  "navbar": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "github": "GitHub"
+  },
+  "aboutPage": {
+    "aboutTitle": "À Propos de JobTrackr",
+    "aboutDesc": "J'ai voulu créer une application simple et efficace pour suivre les emplois auxquels j'ai postulé. Et j'ai décidé de la partager avec tout le monde. JobTrackr est un projet open-source. Ainsi, tout le monde peut contribuer, je passe en revue les modifications de code et les contributeurs peuvent voir leurs modifications en direct. Mon objectif est de rendre cette communauté conviviale et accueillante.",
+    "aboutLine": "Créé avec amour."
+  }
+}
